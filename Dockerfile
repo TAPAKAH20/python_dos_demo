@@ -4,4 +4,4 @@ WORKDIR /usr/src/app
 
 COPY . .
 
-CMD ["python", "./b.py"]
+CMD ["python", "./main.py"]
